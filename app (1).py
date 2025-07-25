@@ -6,7 +6,7 @@ import os
 from together import Together
 
 # 🔑 Replace with your real keys
-os.environ["together_api_key"] = "tgp_v1_c_UNf4h7H7quWIVmcFBf0qsw0zPBEMZyqb6_FGHpuIY"
+os.environ["together_api_key"] = "18ea421c910f4967d2ef737c2c559acecb941d9834a7c99d1a8b9a47c0b7d513"
 SERPER_API_KEY = "dd8e3bb205e2e1cc635cbebb598e09438e99fa40"
 
 client = Together()
